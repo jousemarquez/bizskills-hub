@@ -1,10 +1,10 @@
 let array = [
     {
-        name: "Office suit course",
+        name: "Full MacroHard Onfire Suit",
         category: "Business",
         oldPrice: "£124",
         newPrice: "£99.99",
-        img: "img/office.jpg"
+        img: "img/macro.png"
     },
     {
         name: "Advanced SQL",

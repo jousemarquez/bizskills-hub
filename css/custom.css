@@ -167,13 +167,11 @@ header h1 {
     border: none;
 }
 
-
-
-
 .card {
     display: flex;
     flex-direction: column;
-    justify-content: start;
+    justify-content: space-around;
+    
 }
 
 .barra p {

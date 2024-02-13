@@ -1,52 +1,52 @@
 let array = [
     {
-        name: "Introduction to corporate finance",
-        category: "Business",
-        oldPrice: "£110",
-        newPrice: "£85.75",
-        img: "../img/finance.webp"
+        name: "Consulting Services for Small Businesses Service",
+        category: "Consulting",
+        oldPrice: "£1100",
+        newPrice: "£850.75",
+        img: "../img/smallbusiness.jpeg"
     },
     {
-        name: "Full Office Suit Course",
-        category: "Business",
-        oldPrice: "£124",
-        newPrice: "£99.99",
+        name: "Financial Advisory Services",
+        category: "Financial",
+        oldPrice: "£1240",
+        newPrice: "£999.99",
         img: "../img/office.jpg"
     },
     {
-        name: "Advanced MySQL and Postgre",
-        category: "Database",
-        oldPrice: "£200",
-        newPrice: "£120",
-        img: "../img/sql.jpeg"
+        name: "Human Resources Management Services",
+        category: "HR",
+        oldPrice: "£2000",
+        newPrice: "£1200",
+        img: "../img/hr.jpeg"
     },
     {
-        name: "Introduction to DataBases",
-        category: "Database",
-        oldPrice: "£160",
-        newPrice: "£90.50",
-        img: "../img/databasemgm.jpg"
+        name: "Digital Transformation Services",
+        category: "Digital",
+        oldPrice: "£1600",
+        newPrice: "£900.50",
+        img: "../img/digital.jpg"
     },
     {
-        name: "Advance Cybersecurity",
-        category: "Cybersecurity",
-        oldPrice: "£180",
-        newPrice: "£135.25",
-        img: "../img/cyber.jpeg"
+        name: "Customer Service Excellence",
+        category: "Customers",
+        oldPrice: "£1800",
+        newPrice: "£1350.25",
+        img: "../img/customer.webp"
     },
     {
-        name: "New Digital Marketing 3.0",
-        category: "Marketing",
-        oldPrice: "£250",
-        newPrice: "£189.99",
-        img: "../img/webmark.jpg"
+        name: "Legal and Compliance Services",
+        category: "Legal",
+        oldPrice: "£3250",
+        newPrice: "£2189.99",
+        img: "../img/legal.webp"
     },
     {
-        name: "Mid range for Software Development",
-        category: "Business",
-        oldPrice: "£140",
-        newPrice: "£105",
-        img: "../img/softbusiness.jpeg"
+        name: "Executive Coaching and Mentoring Services",
+        category: "Coaching",
+        oldPrice: "£3140",
+        newPrice: "£2805",
+        img: "../img/coaching.jpeg"
     }
 ]
 
