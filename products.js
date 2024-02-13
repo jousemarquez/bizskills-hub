@@ -1,6 +1,6 @@
 let array = [
     {
-        name: "Full MacroHard Onfire Suit",
+        name: "Full MacroHard Onfire Suite",
         category: "Business",
         oldPrice: "£124",
         newPrice: "£99.99",
