@@ -2,50 +2,50 @@ let array = [
     {
         name: "José Márquez",
         job: "CEO",
-        description: "José Márquez, as Bizskills Hub CEO, has steered the company for 15 years, successfully expanding with over 20 stores across the UK. His leadership has been instrumental in navigating the company's growth and establishing a strong presence in the retail market.",
-        img: "../img/people/jouse.jpeg"
+        description: "José Márquez, the visionary leader at Bizskills Hub, has spearheaded the company for 15 years, orchestrating its expansion with over 20 stores across the UK. His strategic acumen has played a pivotal role in steering the company's growth and establishing a dominant presence in the competitive retail market.",
+        img: "../img/jouse.jpeg"
     },
     {
         name: "Sara Rodríguez",
-        job: "Data Entry Operator",
-        description: "As a Data Entry Operator, Sarah brings seven years of experience and a keen eye for detail. With a background in administrative roles, she excels in maintaining the accuracy and integrity of our data. Sarah is proficient in data entry software and the Microsoft Office Suite, ensuring that our data management is both precise and efficient.",
-        img: "../img/people/jessica.jpg"
+        job: "SEO Specialist",
+        description: "Sara Rodríguez is a diligent SEO Specialist at Bizskills Hub, dedicated to optimizing websites and elevating their search engine rankings. Her expertise drives increased organic traffic and enhances the online visibility of businesses.",
+        img: "../img/jessica.jpg"
     },
     {
         name: "Álex Marín",
-        job: "Support Technician",
-        description: "Alex, with nine years of experience in technical roles, leads our Support Technician team. His expertise lies in diagnosing and troubleshooting hardware and software issues. Alex is known for his excellent problem-solving skills and clear communication. His technical degrees and certifications make him an invaluable asset in resolving complex technical challenges.",
-        img: "../img/people/carlos.jpg"
+        job: "Cloud Computing Consultant",
+        description: "Álex Marín, a proficient Cloud Computing Consultant at Bizskills Hub, offers expert advice and implements cutting-edge cloud computing solutions to optimize business operations and enhance overall efficiency.",
+        img: "../img/carlos.jpg"
     },
     {
         name: "Carlos Fernández",
-        job: "Network Administrator",
-        description: "Carlos, a seasoned Network Administrator with over ten years of experience, spearheads the design, implementation, and maintenance of our network infrastructure. With a background in cybersecurity, he ensures the security and optimal performance of our network. Carlos holds Cisco and other relevant certifications, bringing a wealth of knowledge to our IT landscape.",
-        img: "../img/people/emilio.jpg"
+        job: "DataSys Administrator",
+        description: "Carlos Fernández excels as a skilled DataSys Administrator at Bizskills Hub, overseeing the meticulous management and maintenance of organizational databases. He ensures data integrity and security for the entire infrastructure.",
+        img: "../img/emilio.jpg"
     },
     {
         name: "Rigoberto Carnero",
-        job: "Web Designer",
-        description: "Rigoberto, our creative Web Designer, boasts seven years of experience in crafting visually appealing and user-friendly websites. With a background in graphic design, he collaborates seamlessly with cross-functional teams on web development projects. Ryan stays updated on industry trends, ensuring our online presence reflects the latest design innovations.",
-        img: "../img/people/rigoberto.jpg"
+        job: "Digital Marketing Specialist",
+        description: "Rigoberto Carnero, the Digital Marketing Specialist at Bizskills Hub, is a maestro in developing and implementing effective digital marketing strategies. His expertise drives business growth and engagement in the online sphere.",
+        img: "../img/rigoberto.jpg"
     },
     {
         name: "Sara Chen",
-        job: "Programmer",
-        description: "Sara, our skilled Programmer with eight years of experience, is at the forefront of software development. With a background in creating innovative solutions, she collaborates with cross-functional teams to define software requirements and resolve defects. Emily's proficiency in Java, C++, and Python contributes to the seamless development of our cutting-edge applications.",
-        img: "../img/people/sara.jpg"
+        job: "Cybersecurity Analyst",
+        description: "Sara Chen, the dedicated Cybersecurity Analyst at Bizskills Hub, specializes in identifying and mitigating security risks in software applications and computer networks. Her efforts ensure robust cybersecurity measures for the organization.",
+        img: "../img/sara.jpg"
     },
     {
         name: "Miguel Puig",
-        job: "Software Tester",
-        description: "Miguel, our Software Tester, has six years of experience ensuring the quality of our software applications. His background in quality assurance and meticulous testing methodologies guarantees the reliability of our products. Michael's attention to detail and analytical skills play a vital role in identifying and documenting software defects.",
-        img: "../img/people/miguel.jpg"
+        job: "Software Developer",
+        description: "Miguel Puig, the highly skilled Software Developer at Bizskills Hub, brings extensive experience to the table. His expertise lies in designing and developing innovative software solutions tailored to meet the dynamic needs of business environments.",
+        img: "../img/miguel.jpg"
     },
     {
         name: "Jessica Rodríguez",
-        job: "Help Desk Technician",
-        description: "Sara's Twin, Jessica, our customer service-oriented Help Desk Technician, brings five years of experience to the team. With a background in technical support, she responds promptly to user inquiries, resolves technical problems, and documents and escalates issues as needed. Jessica's friendly demeanor and technical acumen make her an essential part of our support system.",
-        img: "../img/people/jessica.jpg"
+        job: "Corporate Finance Analyst",
+        description: "Jessica Rodríguez, as the astute Corporate Finance Analyst at Bizskills Hub, analyzes financial data with precision. Her insights and recommendations are crucial for making informed business decisions.",
+        img: "../img/jessica.jpg"
     }
 ];
 

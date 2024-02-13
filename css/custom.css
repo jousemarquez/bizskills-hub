@@ -1,5 +1,5 @@
 :root {
-    --main: #FB7328;
+    --main: rgb(213, 122, 18);
 }
 
 html {
@@ -88,6 +88,7 @@ header {
 }
 
 .barra {
+    display: block;
     position: sticky;
     top: 100px;
     z-index: 1;
@@ -172,7 +173,7 @@ header h1 {
 .card {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: start;
 }
 
 .barra p {
@@ -220,6 +221,8 @@ header h1 {
     margin-bottom: 40px;
     text-align: center;
 }
+
+.imagen-curso {}
 
 @media (min-width: 750px) {
     .icono {
@@ -269,6 +272,7 @@ ul {
 
 .card img {
     border-radius: 8px 8px 0px 0px;
+ object-fit: cover;
 }
 
 @media (min-width: 550px) {
@@ -297,6 +301,7 @@ ul {
     font-size: 22px;
 }
 
+
 .footer {
     margin-top: 40px;
     border-top: 1px solid #aaa;
@@ -308,9 +313,4 @@ ul {
     display: block;
     margin-bottom: 10px;
     text-decoration: none;
-}
-
-.background {
-    height: auto;
-    width: 100vw;
 }

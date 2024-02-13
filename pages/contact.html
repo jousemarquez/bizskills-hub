@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Bizskills Hub</title>
+    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="../css/skeleton.css">
+    <link rel="stylesheet" href="../css/custom.css">
+</head>
+
+<body>
+    <header id="header" class="header">
+        <div class="container">
+            <div class="row">
+                <div class="four columns">
+                    <a href="../index.html">
+                        <h1><span class="bold">Bizskills</span>Hub</h1>
+                    </a>
+                </div>
+                <div class="two columns u-pull-right">
+                    <ul>
+                        <li class="submenu">
+                            <img src="../img/cart.png" id="img-carrito" width="40px">
+                            <div id="carrito">
+
+                                <table id="lista-carrito" class="u-full-width">
+                                    <thead>
+                                        <tr>
+                                            <th>Image</th>
+                                            <th>Name</th>
+                                            <th>Price</th>
+                                            <th>Quantity</th>
+                                            <th>Total Price</th>
+                                            <th></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody></tbody>
+                                </table>
+
+                                <a href="#" id="vaciar-carrito" class="button u-full-width">Empty Cart</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="barra">
+        <div class="container">
+            <div class="row">
+                <div class="three columns">
+                    <a href="../index.html" style="padding: 20%">Skills Courses</a>
+                </div>
+                <div class="three columns">
+                    <a href="services.html" style="padding: 20%">Business Services</a>
+                </div>
+                <div class="three columns">
+                    <a href="aboutUs.html" style="padding: 20%">About Us</a>
+                </div>
+                <div class="three columns">
+                    <a href="#" style="padding: 20%">Contact</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div id="lista-cursos" class="container">
+        <h1 id="encabezado" class="encabezado">Contact</h1>
+        <div class="cardContainer" style="margin: 0 auto;">
+                <p>If you have any questions please get in touch.</p><br>
+                <p>Phone: 01772 500044 (9.00am - 5.00pm)</p><br>
+                <p>Address: <B>BizskillsHub</B> HeadQuarter, Preston Technology Centre, Marsh Lane, Preston, PR1 8UQ, GB.🇬🇧</p>
+            </div>
+            <h4>Discover all our stores around the world</h4>
+            <p>FRANCE: <B>BizskillsHub</B> Paris Branch, Le Palais de la Technologie, Rue de la Révolution, 75001 Paris, France. 🇫🇷</p>
+            <p>JAPAN: <B>BizskillsHub</B> Tokyo Outlet, Shibuya Tech Plaza, Shibuya City, Tokyo, 150-0002, Japan. 🇯🇵</p>
+            <p>AUSTRALIA: <B>BizskillsHub</B> Sydney Store, Tech Hub Sydney, 1 Market Street, Sydney, NSW 2000, Australia. 🇦🇺</p>
+            <p>GERMANY: <B>BizskillsHub</B> Berlin Shop, Technologie Zentrum Berlin, Friedrichstraße 200, 10117 Berlin, Germany. 🇩🇪</p>
+            <p>USA: <B>BizskillsHub</B> New York Location, Silicon Alley Tech Center, Broadway, New York, NY 10005, USA. 🇺🇸</p>
+            <p>View other <a href="#" style="color:blue">stores</a></p>
+            <hr>
+            <h4>Alternatively, use this contact form and we will get back to you as soon as possible.</h4>
+            <hr>
+            <p style="color:red">*Required Field</p>
+            <form action="contacto.php" method="POST">
+                <input type="text" name="nombre" placeholder="Name">
+                <input type="email" name="correo" placeholder="E-mail">
+                <input type="text" name="asunto" placeholder="Subject">
+                <textarea name="mensaje" placeholder="Message"></textarea>
+                <input type="submit" value="Send">
+            </form>
+        </div>
+        
+    </div>
+    
+
+    <script src="../js/app.js"></script>
+
+</body>
+
+</html>
